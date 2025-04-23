@@ -24,3 +24,15 @@ Ce repository contient les fichiers suivants :
 8. **Jour 4 - Partie 1** : Recherche du nombre de fois où le mot "XMAS" apparaît dans une grille, dans toutes les directions possibles.
 9. **Jour 4 - Partie 2** : Comptage des motifs "XMAS" valides formés par des diagonales dans la grille.
 
+##Résultats
+
+1. **Jour 1 - Partie 1** : 1970720
+2. **Jour 1 - Partie 2** : 17191599
+3. **Jour 2 - Partie 1** : 524
+5. **Jour 2 - Partie 2** : 569
+6. **Jour 3 - Partie 1** : 178794710
+7. **Jour 3 - Partie 2** : 76729637
+8. **Jour 4 - Partie 1** : 2401
+9. **Jour 4 - Partie 2** : 1822
+
+
